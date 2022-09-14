@@ -20,7 +20,7 @@ The link to the R Script for the data analysis.<br>
 
 <figure>
     <figcaption>Linear regression model</figcaption>
-    <img src="/summary_linear_regression_mecha_car_mpg.png" width=3840 height=auto
+    <img src="/summary_linear_regression_mecha_car_mpg.png" width=1915 height=auto
          alt="Linear regression model">
 </figure> <br>
 
